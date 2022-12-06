@@ -1,0 +1,9 @@
+[package]
+name = "Oxy"
+version = "0.1.0"
+edition = "2021"
+description = "Oxy programming language short for oxidation, built in Rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
